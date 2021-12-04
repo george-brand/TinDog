@@ -2,3 +2,9 @@
 #title {
     background-color: #FF4C68;
 }
+
+h1 {
+    font-family: "Montserrat-wght900";
+    font-size: 3rem;
+    line-height: 1.5;
+}
